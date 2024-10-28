@@ -16,3 +16,6 @@ Creating datasets for fine-tuning an LLM can be a daunting task and not so enjoy
 * Define the number of Q&A pairs
 * Customize context (optional)
 * Generate your dataset!
+
+
+![Screenshot (335)](https://github.com/user-attachments/assets/d862623c-8021-4ea3-af9c-841bb98d9d5c)

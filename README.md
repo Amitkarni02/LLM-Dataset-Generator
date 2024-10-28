@@ -4,15 +4,15 @@ Hence, I created and deployed an app called LLM Dataset Generator where you can 
 
 2.✨ Key Features:
 * Automated Q&A pair generation from PDF inputs
-OpenAI model integration (customizable for other models)
-Flexible Training-Validation split options
-Export in CSV and JSONL formats
-User-friendly Streamlit interface
+* OpenAI model integration (customizable for other models)
+* Flexible Training-Validation split options
+* Export in CSV and JSONL formats
+* User-friendly Streamlit interface
 
 3.🛠️ How It Works:
-Upload your PDF
-Add your API key
-Select your preferred model
-Define the number of Q&A pairs
-Customize context (optional)
-Generate your dataset!
+* Upload your PDF
+* Add your API key
+* Select your preferred model
+* Define the number of Q&A pairs
+* Customize context (optional)
+* Generate your dataset!

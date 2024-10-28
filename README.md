@@ -18,4 +18,4 @@ Creating datasets for fine-tuning an LLM can be a daunting task and not so enjoy
 * Generate your dataset!
 
 
-![Screenshot (335)](https://github.com/user-attachments/assets/d862623c-8021-4ea3-af9c-841bb98d9d5c)
+![Screenshot (335)](https://github.com/user-attachments/assets/938d7b52-34e9-43cd-ae69-ed6f7a2e2cf6)
